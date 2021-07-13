@@ -123,6 +123,29 @@ hr{
    height: 280px;
     padding: 15px;
   
-  
    border-radius: 15px;
+}
+
+.course-author{
+    color: #ED6B4F;
+    font-family: 'Roboto', sans-serif;
+   
+}
+/*-----google--font---link start----*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+/*-----google--font---link start----*/
+
+.course-titel{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.fa-clock{ 
+    background: #FFE4E8;
+    padding: 5px;
+    border-radius: 14.6913px;
+    color:  #FF4A60;
+    
 }
